@@ -7,7 +7,9 @@ https://github.com/ed-donner/agents
 
 ### 6 week journey to code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP
 
-![Autonomous Agent](assets/autonomy.png)
+![Autonomous Agent](img/course.png)
+
+<br/>
 
 _If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view the formatted version._
 
