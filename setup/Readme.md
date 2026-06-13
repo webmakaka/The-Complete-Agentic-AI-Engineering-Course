@@ -17,5 +17,5 @@ $ cp .env.template .env
 <br/>
 
 ```shell
-$ python diagnostics.py
+// $ python diagnostics.py
 ```
