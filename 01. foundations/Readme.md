@@ -56,6 +56,10 @@
 
 <br/>
 
+email записывается в файл emails.txt
+
+<br/>
+
 ![5 Essential LLM Workflow Design Patterns for Building Robust AI Systems](../img/week01-day04-pic03.png)
 
 <br/>
