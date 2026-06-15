@@ -4,12 +4,25 @@ from tools import tools, handle_tool_calls
 from styles import CSS, JS, EXAMPLES
 from dotenv import load_dotenv
 import gradio as gr
+import os
 
 load_dotenv(override=True)
 
-MODEL_NAME = "gpt-5.4-mini"
 
-openai = OpenAI()
+#MODEL_NAME = "gpt-5.4-mini"
+MODEL_GPT_4o_MINI = "gpt-4o-mini"
+MODEL_NAME = MODEL_GPT_4o_MINI
+
+# openai = OpenAI()
+
+BASE_URL = os.getenv('BASE_URL')
+API_KEY = os.getenv('API_KEY')
+
+openai = OpenAI(
+    base_url=BASE_URL,
+    api_key=API_KEY,
+)
+
 
 system = [{"role": "system", "content": TWIN_SYSTEM_PROMPT}]
 
