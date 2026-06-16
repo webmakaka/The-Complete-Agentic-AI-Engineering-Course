@@ -1,8 +1,8 @@
-# Day 2: 5 Essential LLM Workflow Design Patterns for Building Robust AI Systems
+# Week 1: Foundations
 
 <br/>
 
-## Day 2
+## Day 2: 5 Essential LLM Workflow Design Patterns for Building Robust AI Systems
 
 <br/>
 

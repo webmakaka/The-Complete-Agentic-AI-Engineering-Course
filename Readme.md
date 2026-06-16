@@ -27,13 +27,13 @@ $ source .venv/bin/activate
 <br/>
 
 ```shell
-// $ cp .env.template .env
+# $ cp .env.template .env
 ```
 
 <br/>
 
 ```shell
-// $ python diagnostics.py
+# $ python diagnostics.py
 ```
 
 <br/>
