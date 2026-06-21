@@ -6,8 +6,21 @@
 
 <br/>
 
-![5 Essential LLM Workflow Design Patterns for Building Robust AI Systems](../img/week02-day01-pic01.png)
+![OpenAI Agents SDK Fundamentals](../img/week02-day01-pic01.png)
 
 <br/>
 
-![5 Essential LLM Workflow Design Patterns for Building Robust AI Systems](../img/week02-day01-pic02.png)
+![OpenAI Agents SDK Fundamentals](../img/week02-day01-pic02.png)
+
+<br/>
+
+## Day 5
+
+```shell
+$ cd deep_research
+$ uv run deep_research.py
+```
+
+<br/>
+
+![OpenAI Agents SDK Fundamentals](../img/week02-day05-pic01.png)
