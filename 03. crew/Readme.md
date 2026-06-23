@@ -40,5 +40,31 @@ $ crewai create crew debate
 
 ```bash
 $ cd debate
-$ creaai run
+$ crewai run
+```
+
+<br/>
+
+## **Build a Crew Agent**: Create individual specialized agents with distinct roles and goals.
+
+<br/>
+
+![Crew AI Framework](../img/week03-day02-pic01.png)
+
+<br/>
+
+![Crew AI Framework](../img/week03-day02-pic02.png)
+
+<br/>
+
+http://serper.dev/
+
+<br/>
+
+```bash
+$ crewai create crew financial_researcher
+1 openai
+3 gtp-4o-mini
+
+$ crewai run
 ```
