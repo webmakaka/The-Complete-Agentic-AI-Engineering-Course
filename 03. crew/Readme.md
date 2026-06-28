@@ -45,7 +45,7 @@ $ crewai run
 
 <br/>
 
-## **Build a Crew Agent**: Create individual specialized agents with distinct roles and goals.
+## Day 2 **Build a Crew Agent**: Create individual specialized agents with distinct roles and goals.
 
 <br/>
 
@@ -68,3 +68,53 @@ $ crewai create crew financial_researcher
 
 $ crewai run
 ```
+
+<br/>
+
+## Day 3
+
+<br/>
+
+```bash
+$ crewai create crew stock_picker
+1 openai
+3 gtp-4o-mini
+
+$ crewai run
+```
+
+<br/>
+
+## Day 4
+
+<br/>
+
+```bash
+$ crewai create crew coder
+1 openai
+3 gtp-4o-mini
+
+$ crewai run
+```
+
+<br/>
+
+## Day 5
+
+<br/>
+
+![Crew AI Framework](../img/week03-day05-pic01.png)
+
+<br/>
+
+```bash
+$ crewai create crew engineering_team
+1 openai
+3 gtp-4o-mini
+
+$ crewai run
+```
+
+<br/>
+
+![Crew AI Framework](../img/week03-day05-pic02.png)
