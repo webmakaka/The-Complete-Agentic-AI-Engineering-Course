@@ -23,3 +23,7 @@ https://www.anthropic.com/engineering/building-effective-agents
 <br/>
 
 ![LangGraph](../img/week04-day01-pic04.png)
+
+<br/>
+
+### Day2: **Build a LangGraph Agent**: Implement stateful multi-agent architectures using nodes and edges.
