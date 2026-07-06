@@ -104,3 +104,13 @@ GROK_BASE_URL = "https://api.x.ai/v1"
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 OLLAMA_BASE_URL = "http://localhost:11434/v1"
 ```
+
+<br/>
+
+```python
+BASE_URL = "https://models.github.ai/inference"
+MODEL_GPT_4o_MINI = "gpt-4o-mini"
+MODEL_LLAMA = "Llama-3.3-70B-Instruct"
+MODEL_NAME = MODEL_GPT_4o_MINI
+API_KEY = "github_pat_"
+```
