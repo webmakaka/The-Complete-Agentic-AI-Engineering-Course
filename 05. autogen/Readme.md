@@ -35,3 +35,13 @@
 <br/>
 
 ![AutoGen](../img/week05-day04-pic01.png)
+
+<br/>
+
+### Day5: **Project 7: Agent Creator**: Build an Agent Creator that dynamically spawns other agents.
+
+<br/>
+
+```bash
+$ uv run wold.py
+```

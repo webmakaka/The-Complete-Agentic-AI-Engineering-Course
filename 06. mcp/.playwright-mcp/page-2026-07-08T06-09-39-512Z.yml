@@ -1,0 +1,246 @@
+- generic [ref=f61e2]:
+  - navigation [ref=f61e4]:
+    - generic [ref=f61e5]:
+      - link "Gemma’s Bigger Bolder Baking" [ref=f61e7] [cursor=pointer]:
+        - /url: https://www.biggerbolderbaking.com/
+        - img "Gemma’s Bigger Bolder Baking" [ref=f61e8]
+      - generic [ref=f61e9]:
+        - button "Search" [ref=f61e10] [cursor=pointer]:
+          - generic [ref=f61e11]: Search
+          - img [ref=f61e12]
+        - button "Toggle navigation" [ref=f61e14] [cursor=pointer]:
+          - img [ref=f61e16]
+  - main [ref=f61e21]:
+    - generic [ref=f61e22]:
+      - heading "Nothing Found" [level=1] [ref=f61e24]
+      - generic [ref=f61e25]:
+        - paragraph [ref=f61e26]: It seems we can’t find what you’re looking for. Let’s get you baking with some different keywords.
+        - search [ref=f61e27]:
+          - generic [ref=f61e28]: Search
+          - generic [ref=f61e29]:
+            - button "Search" [ref=f61e31] [cursor=pointer]:
+              - generic [ref=f61e32]: Search
+            - textbox "Search recipes, articles, products…" [ref=f61e33]
+            - button "Close Search" [ref=f61e35] [cursor=pointer]:
+              - generic [ref=f61e36]: Close Search
+        - generic [ref=f61e37]:
+          - heading "Try These Recipe Categories!" [level=2] [ref=f61e38]
+          - generic [ref=f61e39]:
+            - button "Previous" [ref=f61e40] [cursor=pointer]: ‹Previous
+            - generic [ref=f61e42]:
+              - link [ref=f61e44] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/gemmas-mug-meals/
+                - img [ref=f61e45]
+                - heading [level=5] [ref=f61e47]: Mug Cakes & Meals
+              - link [ref=f61e49] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/bold-baking-basics/
+                - img [ref=f61e50]
+                - heading [level=5] [ref=f61e52]: Bold Baking Basics
+              - link [ref=f61e54] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/healthy-baking/
+                - img [ref=f61e55]
+                - heading [level=5] [ref=f61e57]: Healthy Baking
+              - link [ref=f61e59] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/informational-articles/
+                - img [ref=f61e60]
+                - heading [level=5] [ref=f61e62]: Informational Articles
+              - link "Cookies Cookies" [ref=f61e64] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/cookie-recipes/
+                - img "Cookies" [ref=f61e65]
+                - heading "Cookies" [level=5] [ref=f61e67]
+              - link "Gemma's Best Recipes Gemma's Best Recipes" [ref=f61e69] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/gemmas-best-recipes/
+                - img "Gemma's Best Recipes" [ref=f61e70]
+                - heading "Gemma's Best Recipes" [level=5] [ref=f61e72]
+              - link "Ice Cream & Frozen Desserts Ice Cream & Frozen Desserts" [ref=f61e74] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/frozen-desserts/
+                - img "Ice Cream & Frozen Desserts" [ref=f61e75]
+                - heading "Ice Cream & Frozen Desserts" [level=5] [ref=f61e77]
+              - link "Cakes Cakes" [ref=f61e79] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/cake-recipes/
+                - img "Cakes" [ref=f61e80]
+                - heading "Cakes" [level=5] [ref=f61e82]
+              - link [ref=f61e84] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/gemmas-mug-meals/
+                - img [ref=f61e85]
+                - heading [level=5] [ref=f61e87]: Mug Cakes & Meals
+              - link [ref=f61e89] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/bold-baking-basics/
+                - img [ref=f61e90]
+                - heading [level=5] [ref=f61e92]: Bold Baking Basics
+              - link [ref=f61e94] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/healthy-baking/
+                - img [ref=f61e95]
+                - heading [level=5] [ref=f61e97]: Healthy Baking
+              - link [ref=f61e99] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/informational-articles/
+                - img [ref=f61e100]
+                - heading [level=5] [ref=f61e102]: Informational Articles
+              - link [ref=f61e104] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/cookie-recipes/
+                - img [ref=f61e105]
+                - heading [level=5] [ref=f61e107]: Cookies
+              - link [ref=f61e109] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/gemmas-best-recipes/
+                - img [ref=f61e110]
+                - heading [level=5] [ref=f61e112]: Gemma's Best Recipes
+              - link [ref=f61e114] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/frozen-desserts/
+                - img [ref=f61e115]
+                - heading [level=5] [ref=f61e117]: Ice Cream & Frozen Desserts
+              - link [ref=f61e119] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/cake-recipes/
+                - img [ref=f61e120]
+                - heading [level=5] [ref=f61e122]: Cakes
+              - link [ref=f61e124] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/gemmas-mug-meals/
+                - img [ref=f61e125]
+                - heading [level=5] [ref=f61e127]: Mug Cakes & Meals
+              - link [ref=f61e129] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/bold-baking-basics/
+                - img [ref=f61e130]
+                - heading [level=5] [ref=f61e132]: Bold Baking Basics
+              - link [ref=f61e134] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/healthy-baking/
+                - img [ref=f61e135]
+                - heading [level=5] [ref=f61e137]: Healthy Baking
+              - link [ref=f61e139] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/informational-articles/
+                - img [ref=f61e140]
+                - heading [level=5] [ref=f61e142]: Informational Articles
+            - button "Next" [ref=f61e143] [cursor=pointer]: ›Next
+    - generic [ref=f61e146]:
+      - img [ref=f61e148]
+      - generic [ref=f61e149]:
+        - generic [ref=f61e150]:
+          - paragraph [ref=f61e151]: About Us
+          - heading "Meet Gemma" [level=2] [ref=f61e152]
+        - paragraph
+        - paragraph [ref=f61e153]:
+          - text: Hi Bold Bakers! I’m Gemma Stafford, a professional chef originally from Ireland, best-selling cookbook author, and the creator of
+          - emphasis [ref=f61e154]: Bigger Bolder Baking
+          - text: and the
+          - emphasis [ref=f61e155]: Bold Baking Network
+          - text: . I want to help you
+          - strong [ref=f61e156]: bake with confidence anytime, anywhere
+          - text: with my trusted and tested recipes and baking tips. You may have seen one of my 1000+ videos on YouTube, Instagram, Facebook, or TikTok or as a guest judge on
+          - emphasis [ref=f61e157]: Nailed It! on Netflix
+          - text: or the
+          - emphasis [ref=f61e158]: Best Baker in America on Food Network
+          - text: ". No matter your skills, my Bold Baking Team & I want to be your #1 authority for everything baking."
+        - paragraph [ref=f61e159]
+        - paragraph
+        - link "Read More" [ref=f61e161] [cursor=pointer]:
+          - /url: https://www.biggerbolderbaking.com/about-gemma/
+    - paragraph [ref=f61e163]:
+      - link "Weeknight Family Favorites Chapter from the Bigger Bolder Baking Every Day Cookbook" [ref=f61e164] [cursor=pointer]:
+        - /url: https://amzn.to/3DyWHZj
+        - img "Weeknight Family Favorites Chapter from the Bigger Bolder Baking Every Day Cookbook" [ref=f61e165]
+  - generic [ref=f61e167]:
+    - heading "Featured On..." [level=3] [ref=f61e168]
+    - generic [ref=f61e169]:
+      - figure [ref=f61e170]:
+        - link [ref=f61e171] [cursor=pointer]:
+          - /url: https://www.today.com/recipes/irish-sausage-rolls-t296260
+      - figure [ref=f61e172]:
+        - link [ref=f61e173] [cursor=pointer]:
+          - /url: https://www.instagram.com/gemma_stafford/p/B-f81Z_pGrE/
+      - figure [ref=f61e174]:
+        - link [ref=f61e175] [cursor=pointer]:
+          - /url: https://www.today.com/food/gemma-stafford-st-patricks-day-recipes-t296262
+      - figure [ref=f61e176]:
+        - link "Brownies Q&A, Brownies Questions, a stack of gooey brownies with shinny crinkled top." [ref=f61e177] [cursor=pointer]:
+          - /url: https://www.hulu.com/series/bakers-dozen-86e9eb70-0a7e-4686-b9d4-81735bd600c6
+          - img "Brownies Q&A, Brownies Questions, a stack of gooey brownies with shinny crinkled top." [ref=f61e178]
+      - figure [ref=f61e179]:
+        - link [ref=f61e180] [cursor=pointer]:
+          - /url: https://youtu.be/h5LsuS87e2Q?si=IvwKTIWqjXxlNQrA
+      - figure [ref=f61e181]:
+        - link [ref=f61e182] [cursor=pointer]:
+          - /url: https://www.instagram.com/biggerbolderbaking/reel/DArrHyxvGeB/
+      - figure [ref=f61e183]:
+        - link [ref=f61e184] [cursor=pointer]:
+          - /url: https://www.forbes.com/sites/jamiegutfreund/2024/11/03/can-hollywood-and-the-creator-economy-save-the-entertainment-industry/
+      - figure [ref=f61e185]:
+        - link "Brownies Q&A, Brownies Questions, a stack of gooey brownies with shinny crinkled top." [ref=f61e186] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=LySXua9BuOI
+          - img "Brownies Q&A, Brownies Questions, a stack of gooey brownies with shinny crinkled top." [ref=f61e187]
+  - contentinfo [ref=f61e188]:
+    - generic [ref=f61e190]:
+      - link "Gemma’s Bigger Bolder Baking" [ref=f61e192] [cursor=pointer]:
+        - /url: https://www.biggerbolderbaking.com/
+        - img "Gemma’s Bigger Bolder Baking" [ref=f61e193]
+      - list [ref=f61e195]:
+        - listitem [ref=f61e196]:
+          - link [ref=f61e197] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/GemmaStafford?sub_confirmation=1
+            - img [ref=f61e198]
+        - listitem [ref=f61e200]:
+          - link [ref=f61e201] [cursor=pointer]:
+            - /url: https://www.Facebook.com/BiggerBolderBaking
+            - img [ref=f61e202]
+        - listitem [ref=f61e204]:
+          - link [ref=f61e205] [cursor=pointer]:
+            - /url: https://www.Instagram.com/BiggerBolderBaking
+            - img [ref=f61e206]
+        - listitem [ref=f61e208]:
+          - link [ref=f61e209] [cursor=pointer]:
+            - /url: https://www.Pinterest.com/BiggerBolderBaking
+            - img [ref=f61e210]
+        - listitem [ref=f61e212]:
+          - link [ref=f61e213] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@biggerbolderbaking
+            - img [ref=f61e214]
+      - generic [ref=f61e216]:
+        - paragraph [ref=f61e217]: Subscribe to get free baking recipes & more straight to your inbox!
+        - generic [ref=f61e220]:
+          - textbox "First Name" [ref=f61e222]
+          - textbox "Email Address" [ref=f61e224]
+          - button "GO" [ref=f61e225] [cursor=pointer]:
+            - generic [ref=f61e226]: GO
+      - generic [ref=f61e227]:
+        - list [ref=f61e230]:
+          - listitem [ref=f61e231]:
+            - link "Gemma Stafford" [ref=f61e232] [cursor=pointer]:
+              - /url: https://www.biggerbolderbaking.com/about-gemma/
+          - listitem [ref=f61e233]:
+            - link "About Bigger Bolder Baking" [ref=f61e234] [cursor=pointer]:
+              - /url: https://www.biggerbolderbaking.com/about/
+          - listitem [ref=f61e235]:
+            - link "All Baking Tips" [ref=f61e236] [cursor=pointer]:
+              - /url: https://www.biggerbolderbaking.com/all-articles/
+          - listitem [ref=f61e237]:
+            - link "Bigger Bolder Baking Cookbook" [ref=f61e238] [cursor=pointer]:
+              - /url: https://www.biggerbolderbaking.com/cookbook/
+          - listitem [ref=f61e239]:
+            - link "Contact" [ref=f61e240] [cursor=pointer]:
+              - /url: https://www.biggerbolderbaking.com/contact/
+        - generic [ref=f61e241]:
+          - heading "Categories:" [level=3] [ref=f61e242]
+          - list [ref=f61e244]:
+            - listitem [ref=f61e245]:
+              - link "Cakes" [ref=f61e246] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/cake-recipes/
+            - listitem [ref=f61e247]:
+              - link "Cookies" [ref=f61e248] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/cookie-recipes/
+            - listitem [ref=f61e249]:
+              - link "Mug Cakes & Meals" [ref=f61e250] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/gemmas-mug-meals/
+            - listitem [ref=f61e251]:
+              - link "Breads & Doughs" [ref=f61e252] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/bread-recipes/
+            - listitem [ref=f61e253]:
+              - link "View All Recipes" [ref=f61e254] [cursor=pointer]:
+                - /url: https://www.biggerbolderbaking.com/recipes/
+  - contentinfo [ref=f61e255]:
+    - paragraph [ref=f61e256]:
+      - text: © 2026 Taste Buds Entertainment LLC. All rights reserved. |
+      - link "Terms of Use" [ref=f61e257] [cursor=pointer]:
+        - /url: /bbb-terms-of-use/
+      - text: "|"
+      - link "Privacy Policy" [ref=f61e258] [cursor=pointer]:
+        - /url: /bbb-privacy-policy/
+      - text: "|"
+      - link "Sitemap" [ref=f61e259] [cursor=pointer]:
+        - /url: /site-map/

@@ -1,0 +1,567 @@
+- generic [active] [ref=f7e1]:
+  - generic [ref=f7e2]:
+    - link "Skip to Content" [ref=f7e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - navigation [ref=f7e4]:
+      - generic [ref=f7e5]:
+        - generic [ref=f7e6]:
+          - generic [ref=f7e7]:
+            - img "Close" [ref=f7e8] [cursor=pointer]
+            - generic [ref=f7e9]:
+              - img "Delish App Banner Logo" [ref=f7e11]
+              - generic [ref=f7e12]:
+                - strong [ref=f7e13]: Delish
+                - strong [ref=f7e14]: Cooking is easier on the app. Download for free!
+          - button "OPEN" [ref=f7e16] [cursor=pointer]
+        - generic [ref=f7e19]:
+          - link "Sign in" [ref=f7e22] [cursor=pointer]:
+            - /url: /auth/csrf?action=login&return_url=https%3A%2F%2Fwww.delish.com%2Fcooking%2Frecipe-ideas%2Fa38951978%2Fbanoffee-pie-recipe%2F
+            - generic [ref=f7e23]: Sign in
+          - link "Subscribe" [ref=f7e24] [cursor=pointer]:
+            - /url: https://store.delish.com/delish-unlimited-all-access-membership-2999.html?cds_tracking_code=del_topnav
+            - generic [ref=f7e25]: Subscribe
+        - generic [ref=f7e28]:
+          - button "Sidepanel Button" [ref=f7e30] [cursor=pointer]:
+            - img [ref=f7e33]
+          - link "Delish" [ref=f7e35] [cursor=pointer]:
+            - /url: /
+            - img [ref=f7e38]
+        - list [ref=f7e41]:
+          - listitem [ref=f7e42]:
+            - link "Recipes" [ref=f7e44] [cursor=pointer]:
+              - /url: /cooking/
+          - listitem [ref=f7e45]:
+            - link "Summer Recipes" [ref=f7e47] [cursor=pointer]:
+              - /url: https://www.delish.com/summer-favorites/
+          - listitem [ref=f7e48]:
+            - link "Occasions" [ref=f7e50] [cursor=pointer]:
+              - /url: /holiday-recipes/
+          - listitem [ref=f7e51]:
+            - link "Kitchen Tips" [ref=f7e53] [cursor=pointer]:
+              - /url: /kitchen-tools/
+          - listitem [ref=f7e54]:
+            - link "Food News & Trends" [ref=f7e56] [cursor=pointer]:
+              - /url: /food-news/
+          - listitem [ref=f7e57]:
+            - link "Member Perks" [ref=f7e59] [cursor=pointer]:
+              - /url: https://www.delish.com/food-news/a60778795/delish-unlimited-member-portal/
+          - listitem [ref=f7e60]:
+            - link "About Us" [ref=f7e62] [cursor=pointer]:
+              - /url: /about/a26446372/about-us-contact-information-team-masthead/
+        - search [ref=f7e64]:
+          - generic [ref=f7e66]:
+            - generic [ref=f7e68]:
+              - generic [ref=f7e69] [cursor=pointer]: search
+              - searchbox "search" [ref=f7e71]
+            - button "Search" [ref=f7e72] [cursor=pointer]:
+              - img "Search" [ref=f7e73]
+    - main [ref=f7e75]:
+      - generic [ref=f7e79]:
+        - navigation "breadcrumbs" [ref=f7e80]:
+          - list [ref=f7e81]:
+            - listitem [ref=f7e82]:
+              - link "Meals & Cooking" [ref=f7e83] [cursor=pointer]:
+                - /url: /cooking/
+            - listitem [ref=f7e84]:
+              - text: ">"
+              - link "Recipes" [ref=f7e85] [cursor=pointer]:
+                - /url: /cooking/recipe-ideas/
+            - text: ">"
+        - heading "Banoffee Pie" [level=1] [ref=f7e86]
+        - generic [ref=f7e88]:
+          - generic [ref=f7e89]:
+            - text: By
+            - link "Malcolm Livingston II" [ref=f7e90] [cursor=pointer]:
+              - /url: /author/235093/malcolm-livingston/
+          - time [ref=f7e91]: "Updated: Oct 27, 2022"
+        - generic [ref=f7e92]:
+          - generic [ref=f7e93]:
+            - img "Star" [ref=f7e95]
+            - link "Be the first to review!" [ref=f7e97] [cursor=pointer]:
+              - /url: "#"
+          - link "Jump to recipe" [ref=f7e98] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=f7e100]
+            - generic [ref=f7e102]: Jump to recipe
+      - generic [ref=f7e104]:
+        - generic [ref=f7e106]:
+          - img "banoffee pie vertical" [ref=f7e109]
+          - generic [ref=f7e110]: Erik Bernstein
+        - generic [ref=f7e111]:
+          - generic [ref=f7e112]:
+            - generic [ref=f7e113]:
+              - generic [ref=f7e114]: "Yields:"
+              - generic [ref=f7e115]: 6 - 8
+            - generic [ref=f7e116]:
+              - generic [ref=f7e117]: "Prep Time:"
+              - generic [ref=f7e118]:
+                - generic [ref=f7e119]: "15"
+                - generic [ref=f7e120]: mins
+            - generic [ref=f7e121]:
+              - generic [ref=f7e122]: "Total Time:"
+              - generic [ref=f7e123]:
+                - generic [ref=f7e124]: "8"
+                - generic [ref=f7e125]: hrs
+            - button "See All Nutritional Information" [ref=f7e127] [cursor=pointer]
+          - generic [ref=f7e129]:
+            - button "Save" [ref=f7e130] [cursor=pointer]:
+              - img [ref=f7e132]
+              - generic [ref=f7e133]: Save
+            - button "Print" [ref=f7e134] [cursor=pointer]:
+              - img [ref=f7e136]
+              - generic [ref=f7e137]: Print
+            - button "I Made It Button" [ref=f7e138] [cursor=pointer]:
+              - img [ref=f7e140]
+              - generic [ref=f7e142]: I made it
+          - generic [ref=f7e145]:
+            - generic [ref=f7e150]:
+              - button "Play video" [ref=f7e151]:
+                - img "Play video" [ref=f7e152]
+              - img "Video poster" [ref=f7e153]
+            - paragraph [ref=f7e155]:
+              - text: If you’re unfamiliar with Banoffee pie, the concept is pretty straight-forward—
+              - link "Bananas" [ref=f7e156] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/g63871207/best-banana-recipes/
+              - text: +
+              - link "Toffee" [ref=f7e157] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/recipes/a50490/chocolate-toffee-recipe/
+              - text: = Banoffee. Developed in England in the 1970s to combine soft toffee (think
+              - link "dulce de leche" [ref=f7e158] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/a27244513/dulce-de-leche-recipe/
+              - text: ) into a fruit pie, it traditionally consisted of a pastry crust base topped with toffee, bananas, and espresso-flavored whipped cream. It has since evolved to sit atop a graham cracker crust and to include chocolate ganache, which is the version you’ll find here. We love how impressive this
+              - link "pie" [ref=f7e159] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/g28931947/best-pie-recipes/
+              - text: looks once assembled, and with minimal effort!
+            - paragraph [ref=f7e160]:
+              - strong [ref=f7e161]: Can I use store-bought ingredients?
+            - paragraph [ref=f7e162]:
+              - text: You
+              - emphasis [ref=f7e163]: could
+              - text: use a pre-made crust, dulce de leche, and whipped cream in a can and get this done in 15 minutes–we won’t judge. But if you’re looking for that extra special touch, we recommend going old school and making everything from scratch, from the
+              - link "graham cracker crust" [ref=f7e164] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/a36617579/graham-cracker-crust-recipe/
+              - text: to the
+              - link "whipped cream" [ref=f7e165] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/a24492200/how-to-make-homemade-whipped-cream/
+              - text: ". Tip: The best way to guarantee perfectly whipped cream is to keep everything as cold as possible, which means cold cream and a cold bowl. Stick your bowl in the freezer for 20 minutes beforehand, or place it over a bowl of ice while you’re whipping."
+            - paragraph [ref=f7e166]:
+              - strong [ref=f7e167]: What is dulce de leche?
+            - paragraph [ref=f7e168]:
+              - text: If you don’t have the mental energy (or a candy thermometer) to make
+              - link "caramel" [ref=f7e169] [cursor=pointer]:
+                - /url: https://www.delish.com/cooking/recipe-ideas/a24568214/how-to-make-caramel/
+              - text: "but still want that homemade taste, dulce de leche is the way to go. Making it involves boiling a closed can of condensed milk long enough that it turns into sweet and creamy dulce de leche, also known as milk jam. It’s super simple, just be warned: You"
+              - emphasis [ref=f7e170]: must
+              - text: make sure to keep the can covered in water for the entire cooking time. We’ve never had a can explode, but it
+              - emphasis [ref=f7e171]: is
+              - text: possible. Also, although you might be tempted to skip removing the label and just boiling the can as is, take the extra step to avoid making a sticky mess of your pot.
+            - paragraph [ref=f7e172]:
+              - strong [ref=f7e173]: Can I make this ahead?
+            - paragraph [ref=f7e174]:
+              - text: While we suggest making this pie as close to serving time as possible, it will keep for up to 48 hours in the fridge. Any longer and the whipped cream will begin to weep, and the bananas will start oxidizing. You
+              - emphasis [ref=f7e175]: can
+              - text: make the dulce de leche ahead of time—let it cool and remove it from the can, and it will keep in the fridge for up to 1 month.
+            - paragraph [ref=f7e176]: "Last minute tip: We do recommend using dark rather than milk or semisweet chocolate. Dark's slight bitterness helps cut the sweetness of this pie. Our go-to brands for dark chocolate are Hu and Valrhona, but you can use whatever is available."
+            - paragraph [ref=f7e177]: Made this? Let us know how it went in the comments below!
+          - generic [ref=f7e181]: Advertisement - Continue Reading Below
+          - generic [ref=f7e183]:
+            - generic [ref=f7e184]:
+              - heading "Ingredients" [level=2] [ref=f7e186]
+              - generic [ref=f7e187]:
+                - generic [ref=f7e188]:
+                  - heading "Crust & Dulce de Leche" [level=3] [ref=f7e189]
+                  - list [ref=f7e190]:
+                    - listitem [ref=f7e191]:
+                      - checkbox [ref=f7e194] [cursor=pointer]
+                      - generic [ref=f7e195] [cursor=pointer]:
+                        - strong [ref=f7e196]: "1"
+                        - text: (
+                        - strong [ref=f7e197]: 6-oz.
+                        - text: ) pre-made graham cracker crust
+                    - listitem [ref=f7e198]:
+                      - checkbox [ref=f7e201] [cursor=pointer]
+                      - generic [ref=f7e202] [cursor=pointer]:
+                        - strong [ref=f7e203]: "1"
+                        - text: (
+                        - strong [ref=f7e204]: 14-oz.
+                        - text: ) can condensed milk, or
+                        - strong [ref=f7e205]: 14-oz.
+                        - text: pre-made dulce de leche
+                - generic [ref=f7e206]:
+                  - heading "Ganache, Filling & Whipped Cream" [level=3] [ref=f7e207]
+                  - list [ref=f7e208]:
+                    - listitem [ref=f7e209]:
+                      - checkbox [ref=f7e212] [cursor=pointer]
+                      - generic [ref=f7e213] [cursor=pointer]:
+                        - strong [ref=f7e214]: 1 tsp.
+                        - text: cocoa butter
+                    - listitem [ref=f7e215]:
+                      - checkbox [ref=f7e218] [cursor=pointer]
+                      - generic [ref=f7e219] [cursor=pointer]:
+                        - strong [ref=f7e220]: 1/3 cup
+                        - text: dark chocolate pieces, plus more for garnish
+                    - listitem [ref=f7e221]:
+                      - checkbox [ref=f7e224] [cursor=pointer]
+                      - generic [ref=f7e225] [cursor=pointer]:
+                        - strong [ref=f7e226]: 1 cup
+                        - text: heavy cream, divided
+                    - listitem [ref=f7e227]:
+                      - checkbox [ref=f7e230] [cursor=pointer]
+                      - generic [ref=f7e231] [cursor=pointer]:
+                        - strong [ref=f7e232]: "5"
+                        - text: bananas
+                    - listitem [ref=f7e233]:
+                      - checkbox [ref=f7e236] [cursor=pointer]
+                      - generic [ref=f7e237] [cursor=pointer]:
+                        - strong [ref=f7e238]: 2 Tbsp.
+                        - text: (plus
+                        - strong [ref=f7e239]: 2 tsp.
+                        - text: ) powdered sugar
+                    - listitem [ref=f7e240]:
+                      - checkbox [ref=f7e243] [cursor=pointer]
+                      - generic [ref=f7e244] [cursor=pointer]: Kosher salt
+                - button "See All Nutritional Information" [ref=f7e245] [cursor=pointer]
+            - generic [ref=f7e246]:
+              - generic [ref=f7e247]:
+                - button "Save" [ref=f7e248] [cursor=pointer]:
+                  - img [ref=f7e250]
+                  - generic [ref=f7e251]: Save
+                - button "Print" [ref=f7e252] [cursor=pointer]:
+                  - img [ref=f7e254]
+                  - generic [ref=f7e255]: Print
+                - button "I Made It Button" [ref=f7e256] [cursor=pointer]:
+                  - img [ref=f7e258]
+                  - generic [ref=f7e260]: I made it
+              - heading "Directions" [level=2] [ref=f7e262]
+              - list [ref=f7e263]:
+                - listitem [ref=f7e264]:
+                  - heading "Make the dulce de leche:" [level=3] [ref=f7e265]
+                  - list [ref=f7e266]:
+                    - listitem [ref=f7e267]:
+                      - generic [ref=f7e268]: Step
+                      - text: 1 Remove the label from the condensed milk can, scrubbing off any sticky bits under running water. In a large pot, place the can on its side, then add enough water to fully submerge the can. Bring the water to a boil then turn the heat down to medium. Continue to cook the can for 5 hours, adding water as necessary to keep can submerged.
+                    - listitem [ref=f7e269]:
+                      - generic [ref=f7e270]: Step
+                      - text: 2 After 5 hours, use tongs to remove the can and place it in a bowl of ice water to cool completely. Refrigerate for about 2 hours before opening.
+                    - listitem [ref=f7e271]:
+                      - generic [ref=f7e272]: Step
+                      - text: 3 Meanwhile, preheat oven to 375° and bake the crust until golden, about 6-10 minutes. Set aside to cool.
+                - listitem [ref=f7e273]:
+                  - heading "Make the ganache:" [level=3] [ref=f7e274]
+                  - list [ref=f7e275]:
+                    - listitem [ref=f7e276]:
+                      - generic [ref=f7e277]: Step
+                      - text: 1 In a large bowl, add the cocoa butter and chocolate. In a small pot, bring ¼ cup heavy cream to a simmer and immediately pour over the cocoa butter and chocolate. Let sit for about 3 minutes, then whisk to combine. (It should appear thick, shiny, and emulsified.)
+                    - listitem [ref=f7e278]:
+                      - generic [ref=f7e279]: Step
+                      - text: 2 Pour the ganache into the cooled crust, tilting the crust to coat the bottoms and sides as you go. Freeze the chocolate-coated crust for about 3 to 5 minutes. Remove from the freezer and sprinkle the top of the ganache with 2 pinches salt.
+                - listitem [ref=f7e280]:
+                  - heading "Assemble the pie:" [level=3] [ref=f7e281]
+                  - list [ref=f7e282]:
+                    - listitem [ref=f7e283]:
+                      - generic [ref=f7e284]: Step
+                      - text: 1 Peel and cut bananas into ¼” slices. Using a spoon or an offset spatula, spread a third of the dulce de leche evenly across top of ganache. Arrange banana slices in concentric circles, starting near the crust and finishing in the center. Spread another third of dulce de leche, followed by more sliced bananas. Finish with remaining dulce de leche and sliced bananas. Refrigerate pie while you whip the cream.
+                - listitem [ref=f7e285]:
+                  - heading "Make the whipped cream:" [level=3] [ref=f7e286]
+                  - list [ref=f7e287]:
+                    - listitem [ref=f7e288]:
+                      - generic [ref=f7e289]: Step
+                      - text: 1 In a large (preferably cold) bowl, whip the remaining ¾ cup cream with the sugar until medium to stiff peaks form. Take the pie out of the fridge and apply the whipped cream on top as you desire.
+                - listitem [ref=f7e290]:
+                  - heading "Finish the pie:" [level=3] [ref=f7e291]
+                  - list [ref=f7e292]:
+                    - listitem [ref=f7e293]:
+                      - generic [ref=f7e294]: Step
+                      - text: 1 Using a microplane, grate a few pieces of dark chocolate on top. Refrigerate for about 2 hours before slicing and serving.
+          - generic [ref=f7e295]:
+            - generic "I Made It Action" [ref=f7e296] [cursor=pointer]:
+              - generic [ref=f7e297]:
+                - img "Check icon" [ref=f7e298]
+                - generic [ref=f7e299]: I made it
+            - button "Rate it"
+          - generic [ref=f7e300]:
+            - generic [ref=f7e303]:
+              - generic [ref=f7e304]:
+                - img "slice of banoffee pie topped with whipped cream and chocolate shavings on a white plate" [ref=f7e305]
+                - link "pinterest" [ref=f7e306] [cursor=pointer]:
+                  - /url: //pinterest.com/pin/create/button/?url=https://www.delish.com/cooking/recipe-ideas/a38951978/banoffee-pie-recipe/&description=Delish&media=https://hips.hearstapps.com/hmg-prod/images/banoffeepie2-1645133690.jpg?resize=1600:*
+                  - img "pinterest"
+              - generic [ref=f7e308]: Erik bernstein
+            - complementary [ref=f7e310]:
+              - region "LIKE THIS RECIPE? THEN YOU'LL LOVE:" [ref=f7e312]:
+                - heading "LIKE THIS RECIPE? THEN YOU'LL LOVE:" [level=2] [ref=f7e314]
+                - generic [ref=f7e315]:
+                  - link "Million Dollar Pie Million-Dollar Pie Star Fill Star Fill Star Fill Star Fill Star 4 hrs 40 mins Save recipe" [ref=f7e318] [cursor=pointer]:
+                    - /url: /cooking/recipe-ideas/a45771464/million-dollar-pie-recipe/
+                    - img "Million Dollar Pie"
+                    - generic [ref=f7e319]: Million-Dollar Pie
+                    - generic [ref=f7e320]:
+                      - generic [ref=f7e323]:
+                        - img "Star Fill" [ref=f7e324]
+                        - img "Star Fill" [ref=f7e325]
+                        - img "Star Fill" [ref=f7e326]
+                        - img "Star Fill" [ref=f7e327]
+                        - img "Star" [ref=f7e328]
+                      - generic [ref=f7e329]:
+                        - generic [ref=f7e331]:
+                          - generic [ref=f7e332]: "4"
+                          - generic [ref=f7e333]: hrs
+                          - generic [ref=f7e334]: "40"
+                          - generic [ref=f7e335]: mins
+                        - button "Save recipe" [ref=f7e336]:
+                          - img [ref=f7e338]
+                  - link "Peanut Butter Banana Pie - Delish.com Peanut Butter Banana Pie Star Be the First to Rate 2 hrs 45 mins Save recipe" [ref=f7e341] [cursor=pointer]:
+                    - /url: /cooking/recipe-ideas/a40516543/peanut-butter-banana-pie-recipe/
+                    - img "Peanut Butter Banana Pie - Delish.com"
+                    - generic [ref=f7e342]: Peanut Butter Banana Pie
+                    - generic [ref=f7e343]:
+                      - generic [ref=f7e345]:
+                        - img "Star" [ref=f7e347]
+                        - generic [ref=f7e349]: Be the First to Rate
+                      - generic [ref=f7e350]:
+                        - generic [ref=f7e352]:
+                          - generic [ref=f7e353]: "2"
+                          - generic [ref=f7e354]: hrs
+                          - generic [ref=f7e355]: "45"
+                          - generic [ref=f7e356]: mins
+                        - button "Save recipe" [ref=f7e357]:
+                          - img [ref=f7e359]
+                  - link "Banana Cream Pie Banana Cream Pie Star Fill Star Fill Star Fill Star Fill Half Star 2 hrs Save recipe" [ref=f7e362] [cursor=pointer]:
+                    - /url: /cooking/recipe-ideas/a41093683/classic-banana-cream-pie-recipe/
+                    - img "Banana Cream Pie"
+                    - generic [ref=f7e363]: Banana Cream Pie
+                    - generic [ref=f7e364]:
+                      - generic [ref=f7e367]:
+                        - img "Star Fill" [ref=f7e368]
+                        - img "Star Fill" [ref=f7e369]
+                        - img "Star Fill" [ref=f7e370]
+                        - img "Star Fill" [ref=f7e371]
+                        - img "Half Star" [ref=f7e372]
+                      - generic [ref=f7e373]:
+                        - generic [ref=f7e375]:
+                          - generic [ref=f7e376]: "2"
+                          - generic [ref=f7e377]: hrs
+                        - button "Save recipe" [ref=f7e378]:
+                          - img [ref=f7e380]
+            - paragraph
+            - document [ref=f7e383]:
+              - main [ref=f7e385]:
+                - article [ref=f7e386]:
+                  - heading "Hungry for weeknight-approved recipes (that basically make themselves)?" [level=3] [ref=f7e387]
+                  - paragraph [ref=f7e388]: We've got you covered.
+                  - generic [ref=f7e389]:
+                    - group [ref=f7e390]:
+                      - generic [ref=f7e391]: Email address
+                      - textbox "Can we get your email address?" [ref=f7e392]
+                    - button "SEND ME THE RECIPES!" [ref=f7e393] [cursor=pointer]
+                  - paragraph [ref=f7e394]:
+                    - text: By signing up, I agree to the
+                    - link "Terms of Use" [ref=f7e395] [cursor=pointer]:
+                      - /url: https://www.hearst.com/-/us-magazines-terms-of-use
+                    - text: (including the
+                    - link "dispute resolution procedures" [ref=f7e396] [cursor=pointer]:
+                      - /url: https://www.hearst.com/-/us-magazines-terms-of-use#_DISPUTE_RESOLUTION
+                    - text: ) and have reviewed
+                    - generic [ref=f7e397]:
+                      - text: the
+                      - link "Privacy Notice" [ref=f7e398] [cursor=pointer]:
+                        - /url: https://www.hearst.com/-/us-magazines-privacy-notice
+                      - text: .
+                    - text: This site is protected by reCAPTCHA and the Google
+                    - link "Privacy Policy" [ref=f7e399] [cursor=pointer]:
+                      - /url: https://policies.google.com/privacy
+                    - text: and
+                    - link "Terms of Service" [ref=f7e400] [cursor=pointer]:
+                      - /url: https://policies.google.com/terms
+                    - text: apply.
+      - generic [ref=f7e404]: Advertisement - Continue Reading Below
+      - generic [ref=f7e406]:
+        - generic [ref=f7e407]:
+          - heading "Recipes" [level=2] [ref=f7e409]:
+            - link "Recipes" [ref=f7e410] [cursor=pointer]:
+              - /url: /cooking/recipe-ideas/
+          - generic [ref=f7e411]:
+            - link "A delicious blackberry cobbler topped with three scoops of vanilla ice cream in a cast iron skillet. Blackberry Cobbler Star 1 hr 35 mins Save recipe" [ref=f7e412] [cursor=pointer]:
+              - /url: /a58385/blackberry-cobbler-recipe/
+              - generic [ref=f7e414]:
+                - img "A delicious blackberry cobbler topped with three scoops of vanilla ice cream in a cast iron skillet."
+              - generic [ref=f7e415]:
+                - paragraph [ref=f7e416]:
+                  - generic [ref=f7e417]: Blackberry Cobbler
+                - generic [ref=f7e418]:
+                  - img "Star" [ref=f7e422]
+                  - generic [ref=f7e423]:
+                    - generic [ref=f7e425]: 1 hr 35 mins
+                    - button "Save recipe" [ref=f7e426]:
+                      - img [ref=f7e428]
+            - link "Summer bowtie pasta and chicken sausage skillet. Summer Bowtie Pasta and Chicken Skillet Bake Star 55 mins Save recipe" [ref=f7e429] [cursor=pointer]:
+              - /url: /a40510865/summer-bowtie-pasta-chicken-sausage-recipe/
+              - generic [ref=f7e431]:
+                - img "Summer bowtie pasta and chicken sausage skillet."
+              - generic [ref=f7e432]:
+                - paragraph [ref=f7e433]:
+                  - generic [ref=f7e434]: Summer Bowtie Pasta and Chicken Skillet Bake
+                - generic [ref=f7e435]:
+                  - img "Star" [ref=f7e439]
+                  - generic [ref=f7e440]:
+                    - generic [ref=f7e442]: 55 mins
+                    - button "Save recipe" [ref=f7e443]:
+                      - img [ref=f7e445]
+            - link "Fluffy dessert with cream, peach or orange colors, and bits of fruit mixed throughout. Creamsicle Fluff Star 4 hrs 45 mins Save recipe" [ref=f7e446] [cursor=pointer]:
+              - /url: /a71787050/best-creamsicle-fluff-recipe/
+              - generic [ref=f7e448]:
+                - img "Fluffy dessert with cream, peach or orange colors, and bits of fruit mixed throughout."
+              - generic [ref=f7e449]:
+                - paragraph [ref=f7e450]:
+                  - generic [ref=f7e451]: Creamsicle Fluff
+                - generic [ref=f7e452]:
+                  - img "Star" [ref=f7e456]
+                  - generic [ref=f7e457]:
+                    - generic [ref=f7e459]: 4 hrs 45 mins
+                    - button "Save recipe" [ref=f7e460]:
+                      - img [ref=f7e462]
+            - link "guava mojito Your Summer Cocktail Based On Your Zodiac Sign" [ref=f7e463] [cursor=pointer]:
+              - /url: /a71785794/summer-cocktails-for-zodiac-signs/
+              - generic [ref=f7e465]:
+                - img "guava mojito"
+              - paragraph [ref=f7e467]:
+                - generic [ref=f7e468]: Your Summer Cocktail Based On Your Zodiac Sign
+          - generic [ref=f7e472]: Advertisement - Continue Reading Below
+        - generic [ref=f7e475]:
+          - link "red beverage poured into a cup with an umbrella Summer Copycat Recipes" [ref=f7e476] [cursor=pointer]:
+            - /url: /a71596215/copycat-summer-recipes/
+            - generic [ref=f7e478]:
+              - img "red beverage poured into a cup with an umbrella"
+            - paragraph [ref=f7e480]:
+              - generic [ref=f7e481]: Summer Copycat Recipes
+          - link "Colorful ice cream scoops with sprinkles and cookie pieces in clear bowls, surrounded by small cookies on a blue surface. Nostalgic '90s Summer Recipes" [ref=f7e484] [cursor=pointer]:
+            - /url: /g71797246/nostalgic-90s-summer-recipes/
+            - generic [ref=f7e486]:
+              - img "Colorful ice cream scoops with sprinkles and cookie pieces in clear bowls, surrounded by small cookies on a blue surface."
+            - paragraph [ref=f7e488]:
+              - generic [ref=f7e489]: Nostalgic '90s Summer Recipes
+          - link "Chicken salad sandwich with lettuce on a soft hoagie roll, garnished with diced vegetables. Chopped Greek Chicken Sandwich Star 15 mins Save recipe" [ref=f7e492] [cursor=pointer]:
+            - /url: /a71795430/chopped-greek-chicken-sandwich-recipe/
+            - generic [ref=f7e494]:
+              - img "Chicken salad sandwich with lettuce on a soft hoagie roll, garnished with diced vegetables."
+            - generic [ref=f7e495]:
+              - paragraph [ref=f7e496]:
+                - generic [ref=f7e497]: Chopped Greek Chicken Sandwich
+              - generic [ref=f7e498]:
+                - img "Star" [ref=f7e502]
+                - generic [ref=f7e503]:
+                  - generic [ref=f7e505]: 15 mins
+                  - button "Save recipe" [ref=f7e506]:
+                    - img [ref=f7e508]
+          - link "Grilled watermelon slices with mint and lime wedges on a plate. Grilled Watermelon Star 25 mins Save recipe" [ref=f7e509] [cursor=pointer]:
+            - /url: /a71795079/best-grilled-watermelon-recipe/
+            - generic [ref=f7e511]:
+              - img "Grilled watermelon slices with mint and lime wedges on a plate."
+            - generic [ref=f7e512]:
+              - paragraph [ref=f7e513]:
+                - generic [ref=f7e514]: Grilled Watermelon
+              - generic [ref=f7e515]:
+                - img "Star" [ref=f7e519]
+                - generic [ref=f7e520]:
+                  - generic [ref=f7e522]: 25 mins
+                  - button "Save recipe" [ref=f7e523]:
+                    - img [ref=f7e525]
+        - generic [ref=f7e527]:
+          - link "martini glasses with gin, tomato infused vermouth, and a basil leaf 10 ‘Salad Cocktail’ Recipes" [ref=f7e528] [cursor=pointer]:
+            - /url: /a71784724/salad-cocktail-recipes/
+            - generic [ref=f7e530]:
+              - img "martini glasses with gin, tomato infused vermouth, and a basil leaf"
+            - paragraph [ref=f7e532]:
+              - generic [ref=f7e533]: 10 ‘Salad Cocktail’ Recipes
+          - link "Colorful snack mixture featuring cereal, pretzels, and freeze-dried strawberries. 10 Easy Summer Snacks" [ref=f7e536] [cursor=pointer]:
+            - /url: /a71789274/summer-snack-recipes/
+            - generic [ref=f7e538]:
+              - img "Colorful snack mixture featuring cereal, pretzels, and freeze-dried strawberries."
+            - paragraph [ref=f7e540]:
+              - generic [ref=f7e541]: 10 Easy Summer Snacks
+          - link "Cocktail glasses with lychee and metal shaker on table. Lychee Martini Star 10 mins Save recipe" [ref=f7e544] [cursor=pointer]:
+            - /url: /a71750159/lychee-martini-recipe/
+            - generic [ref=f7e546]:
+              - img "Cocktail glasses with lychee and metal shaker on table."
+            - generic [ref=f7e547]:
+              - paragraph [ref=f7e548]:
+                - generic [ref=f7e549]: Lychee Martini
+              - generic [ref=f7e550]:
+                - img "Star" [ref=f7e554]
+                - generic [ref=f7e555]:
+                  - generic [ref=f7e557]: 10 mins
+                  - button "Save recipe" [ref=f7e558]:
+                    - img [ref=f7e560]
+          - link "Mexican street corn pasta salad with a spoon taking a scoop. Delish-Exclusive Summer Sides" [ref=f7e561] [cursor=pointer]:
+            - /url: /a71798770/delish-exclusive-summer-sides/
+            - generic [ref=f7e563]:
+              - img "Mexican street corn pasta salad with a spoon taking a scoop."
+            - paragraph [ref=f7e565]:
+              - generic [ref=f7e566]: Delish-Exclusive Summer Sides
+        - generic [ref=f7e570]: Advertisement - Continue Reading Below
+    - contentinfo [ref=f7e572]:
+      - generic [ref=f7e573]:
+        - generic [ref=f7e574]:
+          - link "Delish" [ref=f7e575] [cursor=pointer]:
+            - /url: /
+            - img "Logo"
+          - generic [ref=f7e576]:
+            - link "x" [ref=f7e578] [cursor=pointer]:
+              - /url: https://x.com/delish
+              - img "x" [ref=f7e579]
+            - link "tiktok" [ref=f7e581] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@delish?lang=en
+              - img "tiktok" [ref=f7e582]
+            - link "youtube" [ref=f7e584] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/delish?sub_confirmation=1
+              - img "youtube" [ref=f7e585]
+            - link "facebook" [ref=f7e587] [cursor=pointer]:
+              - /url: https://www.facebook.com/delish
+              - img "facebook" [ref=f7e588]
+            - link "instagram" [ref=f7e590] [cursor=pointer]:
+              - /url: http://instagram.com/delish
+              - img "instagram" [ref=f7e591]
+            - link "pinterest" [ref=f7e593] [cursor=pointer]:
+              - /url: http://www.pinterest.com/Delish/?auto_follow=1
+              - img "pinterest" [ref=f7e594]
+        - navigation "Footer" [ref=f7e595]:
+          - link "Newsletter" [ref=f7e596] [cursor=pointer]:
+            - /url: https://delish.com/email/delish-newsletter
+          - link "Subscribe" [ref=f7e597] [cursor=pointer]:
+            - /url: https://store.delish.com/delish-unlimited-all-access-membership-2999.html?cds_tracking_code=del_footer
+          - link "Manage Subscription" [ref=f7e598] [cursor=pointer]:
+            - /url: https://service.delish.com/login?redirect=%2F
+          - link "About Us" [ref=f7e599] [cursor=pointer]:
+            - /url: /about/a26446372/about-us-contact-information-team-masthead/
+          - link "Delish Test Kitchen" [ref=f7e600] [cursor=pointer]:
+            - /url: /about/a60636180/approved-delish-kitchen-testing-process/
+          - link "Media Kit" [ref=f7e601] [cursor=pointer]:
+            - /url: https://www.delishmediakit.com/r5/home.asp
+          - link "Community Guidelines" [ref=f7e602] [cursor=pointer]:
+            - /url: /about/a41645/community-guidelines/
+          - link "Advertise With Us" [ref=f7e603] [cursor=pointer]:
+            - /url: /about/a41646/advertise-delish/
+          - link "Delish Membership Support" [ref=f7e604] [cursor=pointer]:
+            - /url: mailto:membersupport@delish.com
+          - link "Turn off Web Notifications" [ref=f7e605] [cursor=pointer]:
+            - /url: /about/a61795077/how-to-turn-off-web-notifications/
+        - img "Hearst Lifestyle and Design Group - A Part of Hearst Digital Media" [ref=f7e606]
+        - paragraph [ref=f7e607]: A Part of Hearst Digital Media
+        - paragraph [ref=f7e608]: We may earn commission from links on this page, but we only recommend products we back.
+        - paragraph [ref=f7e609]: ©2026 Hearst Magazine Media, Inc. All Rights Reserved.
+        - generic [ref=f7e610]:
+          - link "Privacy Notice" [ref=f7e611] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice
+          - link "CA Notice at Collection" [ref=f7e612] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice#_ADDITIONAL_INFO
+          - link "Your CA Privacy Rights/Shine the Light" [ref=f7e613] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice#_ADDITIONAL_INFO
+          - link "DAA Industry Opt Out" [ref=f7e614] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-privacy-notice#_OPT_OUTS
+          - link "Terms of Use" [ref=f7e615] [cursor=pointer]:
+            - /url: https://www.hearst.com/-/us-magazines-terms-of-use
+          - link "Site Map" [ref=f7e616] [cursor=pointer]:
+            - /url: /sitemap/
+        - link "Cookies Choices" [ref=f7e618] [cursor=pointer]:
+          - /url: "#"
+  - alert [ref=f7e619]

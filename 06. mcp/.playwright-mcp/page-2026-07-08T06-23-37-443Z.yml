@@ -1,0 +1,12 @@
+- generic [active] [ref=f6e1]:
+  - img "404 error" [ref=f6e2]
+  - heading "We apologise, something appears to have gone wrong." [level=4] [ref=f6e3]
+  - generic [ref=f6e4]:
+    - link "LoveInc" [ref=f6e5] [cursor=pointer]:
+      - /url: /
+      - img "LoveInc" [ref=f6e6]
+    - paragraph [ref=f6e7]:
+      - text: Copyright ©
+      - link "lovemoney.com" [ref=f6e8] [cursor=pointer]:
+        - /url: http://www.lovemoney.com
+      - text: All rights reserved.

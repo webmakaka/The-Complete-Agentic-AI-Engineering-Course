@@ -1,0 +1,107 @@
+- generic [active] [ref=f52e1]:
+  - generic [ref=f52e2]:
+    - link "Skip to content" [ref=f52e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=f52e4]:
+      - text: ➔
+      - generic [ref=f52e8]:
+        - paragraph [ref=f52e17]:
+          - link "Sign up for free weekly recipes!➔" [ref=f52e18] [cursor=pointer]:
+            - /url: https://www.daringgourmet.com/subscribe/
+        - generic [ref=f52e22]:
+          - link "The Daring Gourmet" [ref=f52e26] [cursor=pointer]:
+            - /url: https://www.daringgourmet.com/
+            - img "The Daring Gourmet" [ref=f52e27]
+          - generic [ref=f52e28]:
+            - button "View Search Form" [ref=f52e31] [cursor=pointer]:
+              - img [ref=f52e34]
+            - button "Open menu" [ref=f52e38] [cursor=pointer]:
+              - img "Toggle Menu" [ref=f52e41]
+    - main [ref=f52e43]:
+      - generic [ref=f52e50]:
+        - heading "Oops! That page can’t be found." [level=1] [ref=f52e52]
+        - paragraph [ref=f52e53]: It looks like nothing was found at this location. Maybe try a search?
+        - search [ref=f52e54]:
+          - generic [ref=f52e55]:
+            - generic [ref=f52e56]: "Search for:"
+            - searchbox "Search for:" [ref=f52e57]
+          - button "Search" [ref=f52e58] [cursor=pointer]
+          - generic:
+            - generic:
+              - img
+    - generic [ref=f52e59]:
+      - generic [ref=f52e63]:
+        - generic [ref=f52e64]:
+          - heading "Get delicious recipes weekly" [level=2] [ref=f52e65]
+          - link "Subscribe➔" [ref=f52e68] [cursor=pointer]:
+            - /url: https://www.daringgourmet.com/subscribe/
+          - generic [ref=f52e70]:
+            - heading "Follow Daring Gourmet on Social Media" [level=4] [ref=f52e71]
+            - list [ref=f52e72]:
+              - listitem [ref=f52e73]:
+                - link "Facebook" [ref=f52e74] [cursor=pointer]:
+                  - /url: https://www.facebook.com/TheDaringGourmet
+                  - img [ref=f52e75]
+                  - generic [ref=f52e77]: Facebook
+              - listitem [ref=f52e78]:
+                - link "Instagram" [ref=f52e79] [cursor=pointer]:
+                  - /url: https://www.instagram.com/daringgourmet/
+                  - img [ref=f52e80]
+                  - generic [ref=f52e82]: Instagram
+              - listitem [ref=f52e83]:
+                - link "Pinterest" [ref=f52e84] [cursor=pointer]:
+                  - /url: https://pinterest.com/daringgourmet/
+                  - img [ref=f52e85]
+                  - generic [ref=f52e87]: Pinterest
+              - listitem [ref=f52e88]:
+                - link "X" [ref=f52e89] [cursor=pointer]:
+                  - /url: https://twitter.com/daringgourmet
+                  - img [ref=f52e90]
+                  - generic [ref=f52e92]: X
+              - listitem [ref=f52e93]:
+                - link "YouTube" [ref=f52e94] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCWAo5QHJgtU2RPQeJ_1NHjQ
+                  - img [ref=f52e95]
+                  - generic [ref=f52e97]: YouTube
+        - figure [ref=f52e98]
+      - generic [ref=f52e101]:
+        - heading "As seen in" [level=2] [ref=f52e102]
+        - generic [ref=f52e103]:
+          - figure [ref=f52e105]
+          - figure [ref=f52e107]
+          - figure [ref=f52e109]
+          - figure [ref=f52e111]
+          - figure [ref=f52e113]
+          - figure [ref=f52e115]
+          - figure [ref=f52e117]
+          - figure [ref=f52e119]
+        - generic [ref=f52e120]:
+          - figure [ref=f52e122]
+          - figure [ref=f52e124]
+          - figure [ref=f52e126]
+          - figure [ref=f52e128]
+          - figure [ref=f52e130]
+          - figure [ref=f52e132]
+          - figure [ref=f52e134]
+          - figure [ref=f52e136]
+    - contentinfo [ref=f52e137]:
+      - generic [ref=f52e138]:
+        - navigation "Footer" [ref=f52e146]:
+          - list [ref=f52e148]:
+            - listitem [ref=f52e149]:
+              - link "Privacy Policy" [ref=f52e150] [cursor=pointer]:
+                - /url: https://www.daringgourmet.com/privacy-policy/
+            - listitem [ref=f52e151]:
+              - link "Contact" [ref=f52e152] [cursor=pointer]:
+                - /url: https://www.daringgourmet.com/contact/
+            - listitem [ref=f52e153]:
+              - link "Make a Request" [ref=f52e154] [cursor=pointer]:
+                - /url: https://www.daringgourmet.com/make-a-request/
+        - paragraph [ref=f52e164]: Copyright © 2026 The Daring Gourmet
+  - link [ref=f52e165] [cursor=pointer]:
+    - /url: "#wrapper"
+    - generic:
+      - img
+  - button "Scroll to top" [ref=f52e166] [cursor=pointer]:
+    - generic:
+      - img

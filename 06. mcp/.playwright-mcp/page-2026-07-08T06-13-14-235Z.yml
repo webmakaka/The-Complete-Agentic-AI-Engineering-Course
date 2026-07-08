@@ -1,0 +1,193 @@
+- generic [active] [ref=f56e1]:
+  - navigation [ref=f56e3]:
+    - list [ref=f56e4]:
+      - listitem [ref=f56e5]:
+        - link "RECIPES" [ref=f56e6] [cursor=pointer]:
+          - /url: /recipes/
+      - listitem [ref=f56e7]:
+        - link "ABOUT" [ref=f56e8] [cursor=pointer]:
+          - /url: /about-us/
+      - listitem [ref=f56e9]:
+        - link "NEWSLETTER" [ref=f56e10] [cursor=pointer]:
+          - /url: /subscribe/
+      - listitem [ref=f56e11]:
+        - link "COOKBOOK" [ref=f56e12] [cursor=pointer]:
+          - /url: /cookbook/
+      - listitem [ref=f56e13]:
+        - link "SAVED RECIPES" [ref=f56e14] [cursor=pointer]:
+          - /url: "#list/my-favorites"
+      - listitem [ref=f56e15]:
+        - textbox "SEARCH" [ref=f56e17]
+  - banner [ref=f56e18]:
+    - link "Love and Lemons" [ref=f56e19] [cursor=pointer]:
+      - /url: /
+      - img "Love and Lemons" [ref=f56e20]
+    - img "Menu" [ref=f56e22]
+  - generic [ref=f56e25]:
+    - navigation [ref=f56e27]:
+      - heading "Navigation" [level=3] [ref=f56e28]
+      - list [ref=f56e29]:
+        - listitem [ref=f56e30]:
+          - link "Home" [ref=f56e31] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f56e32]:
+          - link "About Us" [ref=f56e33] [cursor=pointer]:
+            - /url: /about-us/
+        - listitem [ref=f56e34]:
+          - link "Recipes" [ref=f56e35] [cursor=pointer]:
+            - /url: /recipes/
+        - listitem [ref=f56e36]:
+          - link "My Saved Recipes" [ref=f56e37] [cursor=pointer]:
+            - /url: "#list/my-favorites"
+        - listitem [ref=f56e38]:
+          - link "Cookbook" [ref=f56e39] [cursor=pointer]:
+            - /url: /cookbook/
+        - listitem [ref=f56e40]:
+          - link "Newsletter" [ref=f56e41] [cursor=pointer]:
+            - /url: /subscribe/
+        - listitem [ref=f56e42]:
+          - link "Contact" [ref=f56e43] [cursor=pointer]:
+            - /url: /contact/
+        - listitem [ref=f56e44]:
+          - generic [ref=f56e45]:
+            - textbox "Search" [ref=f56e46]
+            - button "Go!" [ref=f56e47]
+      - heading "Social" [level=3] [ref=f56e48]
+      - list [ref=f56e49]:
+        - listitem [ref=f56e50]:
+          - link "Instagram" [ref=f56e51] [cursor=pointer]:
+            - /url: http://instagram.com/loveandlemons
+        - listitem [ref=f56e52]:
+          - link "Facebook" [ref=f56e53] [cursor=pointer]:
+            - /url: https://www.facebook.com/lovelemonsfood
+        - listitem [ref=f56e54]:
+          - link "Pinterest" [ref=f56e55] [cursor=pointer]:
+            - /url: http://pinterest.com/loveandlemons/
+        - listitem [ref=f56e56]:
+          - link "Twitter" [ref=f56e57] [cursor=pointer]:
+            - /url: https://twitter.com/lovelemonsfood
+    - heading "Page Not Found" [level=1] [ref=f56e61]
+  - generic [ref=f56e62]:
+    - generic [ref=f56e63]:
+      - link:
+        - /url: https://www.instagram.com/loveandlemons/
+      - link:
+        - /url: https://www.pinterest.com/loveandlemons/
+      - link:
+        - /url: https://twitter.com/lovelemonsfood
+      - link:
+        - /url: https://www.facebook.com/lovelemonsfood
+      - img "Instagram, Pinterest, Twitter, and Facebook" [ref=f56e64]
+    - navigation [ref=f56e65]:
+      - generic [ref=f56e66]:
+        - generic [ref=f56e67]: Top Recipes
+        - list [ref=f56e68]:
+          - listitem [ref=f56e69]:
+            - link "Healthy Breakfast Ideas" [ref=f56e70] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/healthy-breakfast-ideas/
+          - listitem [ref=f56e71]:
+            - link "Easy Dinner Ideas" [ref=f56e72] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/easy-dinner-ideas/
+          - listitem [ref=f56e73]:
+            - link "Healthy Lunch Ideas" [ref=f56e74] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/healthy-lunch-ideas/
+          - listitem [ref=f56e75]:
+            - link "Best Brunch Recipes" [ref=f56e76] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/brunch-recipes/
+          - listitem [ref=f56e77]:
+            - link "Vegan Recipes" [ref=f56e78] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/vegan-recipes/
+          - listitem [ref=f56e79]:
+            - link "Best Salad Recipes" [ref=f56e80] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/salad-recipes/
+          - listitem [ref=f56e81]:
+            - link "Best Soup Recipes" [ref=f56e82] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/soup-recipes/
+          - listitem [ref=f56e83]:
+            - link "Easy Appetizer Recipes" [ref=f56e84] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/appetizers/
+      - generic [ref=f56e85]:
+        - generic [ref=f56e86]: Cooking With Vegetables
+        - list [ref=f56e87]:
+          - listitem [ref=f56e88]:
+            - link "Avocado" [ref=f56e89] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/avocado-recipes/
+          - listitem [ref=f56e90]:
+            - link "Beets" [ref=f56e91] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/simple-roasted-beets/
+          - listitem [ref=f56e92]:
+            - link "Brussels Sprouts" [ref=f56e93] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/roasted-brussels-sprouts/
+          - listitem [ref=f56e94]:
+            - link "Broccoli" [ref=f56e95] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/roasted-broccoli/
+          - listitem [ref=f56e96]:
+            - link "Butternut Squash" [ref=f56e97] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/roasted-butternut-squash/
+          - listitem [ref=f56e98]:
+            - link "Cauliflower" [ref=f56e99] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/how-to-make-cauliflower-rice/
+          - listitem [ref=f56e100]:
+            - link "Spaghetti Squash" [ref=f56e101] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/how-to-cook-spaghetti-squash/
+          - listitem [ref=f56e102]:
+            - link "Sweet Potato" [ref=f56e103] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/baked-sweet-potato/
+      - generic [ref=f56e104]:
+        - generic [ref=f56e105]: Plant-Based Cooking Basics
+        - list [ref=f56e106]:
+          - listitem [ref=f56e107]:
+            - link "Brown Rice" [ref=f56e108] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/how-to-cook-brown-rice/
+          - listitem [ref=f56e109]:
+            - link "Lentils" [ref=f56e110] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/how-to-cook-lentils/
+          - listitem [ref=f56e111]:
+            - link "Roasted Chickpeas" [ref=f56e112] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/roasted-chickpeas/
+          - listitem [ref=f56e113]:
+            - link "Farro" [ref=f56e114] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/farro/
+          - listitem [ref=f56e115]:
+            - link "Tofu" [ref=f56e116] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/how-to-cook-tofu/
+          - listitem [ref=f56e117]:
+            - link "Tempeh" [ref=f56e118] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/tempeh/
+          - listitem [ref=f56e119]:
+            - link "Quinoa" [ref=f56e120] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/quinoa/
+          - listitem [ref=f56e121]:
+            - link "Zucchini Noodles" [ref=f56e122] [cursor=pointer]:
+              - /url: https://www.loveandlemons.com/zucchini-noodles/
+      - list [ref=f56e124]:
+        - listitem [ref=f56e125]:
+          - link "HOME" [ref=f56e126] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f56e127]:
+          - link "ABOUT" [ref=f56e128] [cursor=pointer]:
+            - /url: /about-us/
+        - listitem [ref=f56e129]:
+          - link "RECIPES" [ref=f56e130] [cursor=pointer]:
+            - /url: /recipes/
+        - listitem [ref=f56e131]:
+          - link "COOKBOOK" [ref=f56e132] [cursor=pointer]:
+            - /url: /cookbook/
+        - listitem [ref=f56e133]:
+          - link "SHOP" [ref=f56e134] [cursor=pointer]:
+            - /url: /shop/
+        - listitem [ref=f56e135]:
+          - link "SUBSCRIBE" [ref=f56e136] [cursor=pointer]:
+            - /url: /subscribe/
+        - listitem [ref=f56e137]:
+          - link "CONTACT" [ref=f56e138] [cursor=pointer]:
+            - /url: /contact/
+        - listitem [ref=f56e139]:
+          - link "PRIVACY POLICY" [ref=f56e140] [cursor=pointer]:
+            - /url: /privacy-policy/
+    - generic [ref=f56e141]:
+      - text: Click
+      - link "here" [ref=f56e142] [cursor=pointer]:
+        - /url: /privacy-policy/
+      - text: to view our privacy policy.
+    - generic [ref=f56e143]: Copyright © 2026 Love and Lemons, LLC. All rights reserved.

@@ -1,0 +1,105 @@
+- generic [active] [ref=f22e1]:
+  - generic:
+    - generic:
+      - text: ✓
+      - status [ref=f22e2]
+  - generic [ref=f22e5]:
+    - link "Skip to main content" [ref=f22e6] [cursor=pointer]:
+      - /url: "#main-content"
+    - generic:
+      - complementary
+    - banner [ref=f22e8]:
+      - generic [ref=f22e10]:
+        - button "Open Navigation Menu Menu" [ref=f22e12] [cursor=pointer]:
+          - generic [ref=f22e13]: Open Navigation Menu
+          - img "Menu" [ref=f22e15]
+        - link "Epicurious" [ref=f22e18] [cursor=pointer]:
+          - /url: /
+          - img "Epicurious" [ref=f22e20]
+        - generic [ref=f22e25]:
+          - searchbox "search" [ref=f22e29]
+          - img "Search" [ref=f22e30]
+    - generic:
+      - complementary
+    - main [ref=f22e33]:
+      - generic [ref=f22e38]:
+        - generic "UtilityPageHeader" [ref=f22e39]:
+          - generic [ref=f22e40]:
+            - heading "Don't Cry!" [level=1] [ref=f22e41]
+            - heading "The page you're looking for isn't here. Hit up our homepage for some delicious recipe ideas. We'll clean up the spill." [level=2] [ref=f22e42]
+        - generic [ref=f22e43]: "Status Code: 404"
+        - link "Go to our homepage" [ref=f22e44] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f22e45]: Go to our homepage
+    - contentinfo [ref=f22e49]:
+      - generic [ref=f22e50]:
+        - generic [ref=f22e51]:
+          - link "Epicurious" [ref=f22e53] [cursor=pointer]:
+            - /url: /
+            - img "Epicurious" [ref=f22e56]
+          - generic [ref=f22e58]: Since 1995, Epicurious has been the ultimate food resource for the home cook, with daily kitchen tips, fun cooking videos, and, oh yeah, over 33,000 recipes.
+          - list [ref=f22e60]:
+            - listitem [ref=f22e61]:
+              - link "Follow us on Facebook" [ref=f22e62] [cursor=pointer]:
+                - /url: https://www.facebook.com/epicurious
+                - img "Facebook" [ref=f22e65]
+            - listitem [ref=f22e67]:
+              - link "Follow us on X" [ref=f22e68] [cursor=pointer]:
+                - /url: https://twitter.com/epicurious
+                - img "X" [ref=f22e71]
+            - listitem [ref=f22e73]:
+              - link "Follow us on Pinterest" [ref=f22e74] [cursor=pointer]:
+                - /url: https://pinterest.com/epicurious/
+                - img "Pinterest" [ref=f22e77]
+            - listitem [ref=f22e79]:
+              - link "Follow us on YouTube" [ref=f22e80] [cursor=pointer]:
+                - /url: https://youtube.com/user/epicuriousdotcom
+                - img "YouTube" [ref=f22e83]
+            - listitem [ref=f22e85]:
+              - link "Follow us on Instagram" [ref=f22e86] [cursor=pointer]:
+                - /url: https://www.instagram.com/epicurious/
+                - img "Instagram" [ref=f22e89]
+        - navigation "More from Epicurious" [ref=f22e91]:
+          - paragraph [ref=f22e92]:
+            - button "More from Epicurious" [ref=f22e93] [cursor=pointer]: More from Epicurious
+        - navigation "Connect" [ref=f22e95]:
+          - paragraph [ref=f22e96]:
+            - button "Connect" [ref=f22e97] [cursor=pointer]: Connect
+        - generic [ref=f22e100]:
+          - navigation "Notices" [ref=f22e101]:
+            - list [ref=f22e102]:
+              - listitem [ref=f22e103]:
+                - link "User Agreement" [ref=f22e104] [cursor=pointer]:
+                  - /url: https://www.condenast.com/user-agreement/
+              - listitem [ref=f22e105]:
+                - text: "|"
+                - link "Privacy Policy" [ref=f22e106] [cursor=pointer]:
+                  - /url: http://www.condenast.com/privacy-policy#privacypolicy
+              - listitem [ref=f22e107]:
+                - text: "|"
+                - link "Your California Privacy Rights" [ref=f22e108] [cursor=pointer]:
+                  - /url: http://www.condenast.com/privacy-policy#privacypolicy-california
+              - listitem [ref=f22e109]:
+                - text: "|"
+                - link "Accessibility Help" [ref=f22e110] [cursor=pointer]:
+                  - /url: /expert-advice/accessibility-help-article
+              - listitem [ref=f22e111]:
+                - text: "|"
+                - link "Condé Nast Store" [ref=f22e112] [cursor=pointer]:
+                  - /url: http://www.condenaststore.com/
+              - listitem [ref=f22e113]:
+                - text: "|"
+                - link "Site Map" [ref=f22e114] [cursor=pointer]:
+                  - /url: /sitemap
+              - listitem [ref=f22e115]:
+                - text: "|"
+                - img [ref=f22e117]
+                - button "Privacy Information" [ref=f22e129] [cursor=pointer]
+          - paragraph [ref=f22e131]:
+            - text: © 2026 Condé Nast. All rights reserved.
+            - emphasis [ref=f22e132]: Epicurious
+            - text: may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+            - link "Ad Choices" [ref=f22e133] [cursor=pointer]:
+              - /url: http://www.aboutads.info
+          - paragraph [ref=f22e135]: Food Innovation Group
+  - region "Live chat"

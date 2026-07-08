@@ -1,0 +1,15 @@
+- generic [ref=f52e2]:
+  - heading "Please verify you are a human" [level=1] [ref=f52e5]
+  - generic [ref=f52e7]:
+    - paragraph [ref=f52e12]: Access to this page has been denied because we believe you are using automation tools to browse the website.
+    - paragraph [ref=f52e13]: "This may happen as a result of the following:"
+    - list [ref=f52e14]:
+      - listitem [ref=f52e15]: Javascript is disabled or blocked by an extension (ad blockers for example)
+      - listitem [ref=f52e16]: Your browser does not support cookies
+    - paragraph [ref=f52e17]: Please make sure that Javascript and cookies are enabled on your browser and that you are not blocking them from loading.
+    - paragraph [ref=f52e18]: "Reference ID: #96ae8e43-7a93-11f1-8756-c1865ce7a88b"
+  - paragraph [ref=f52e21]:
+    - text: Powered by
+    - link "PerimeterX" [ref=f52e22] [cursor=pointer]:
+      - /url: https://www.perimeterx.com/whywasiblocked
+    - text: ", Inc."

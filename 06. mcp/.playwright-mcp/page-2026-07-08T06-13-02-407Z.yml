@@ -1,0 +1,258 @@
+- generic [ref=f23e2]:
+  - generic [ref=f23e9]:
+    - button "Main Menu" [ref=f23e12]:
+      - img [ref=f23e13]
+    - link "go to home page" [ref=f23e17] [cursor=pointer]:
+      - /url: //www.foodnetwork.com
+      - img [ref=f23e18]
+    - button "Recipes" [ref=f23e22]
+    - generic [ref=f23e24]:
+      - button "Shows" [ref=f23e25]
+      - text: →
+    - button "Chefs" [ref=f23e28]
+    - button "Food News" [ref=f23e31]
+    - button "Shop" [ref=f23e34]
+    - button "Sweepstakes" [ref=f23e37]
+    - button "What's on TV" [ref=f23e40]
+    - button "About" [ref=f23e43]
+    - generic [ref=f23e48]:
+      - textbox "site search input" [ref=f23e49]:
+        - /placeholder: What are you looking for?
+      - button "submit site search" [ref=f23e50] [cursor=pointer]:
+        - img [ref=f23e51]
+    - link "Saves" [ref=f23e55] [cursor=pointer]:
+      - /url: //www.foodnetwork.com/saves
+      - img [ref=f23e56]
+    - link "Shopping List" [ref=f23e60] [cursor=pointer]:
+      - /url: https://www.foodnetwork.com/kitchen/shopping-list
+      - img [ref=f23e61]
+    - button "User Profile Menu" [ref=f23e66] [cursor=pointer]
+  - generic [ref=f23e69]:
+    - list [ref=f23e72]:
+      - listitem [ref=f23e73]:
+        - link "Home |" [ref=f23e74] [cursor=pointer]:
+          - /url: //www.foodnetwork.com
+      - listitem [ref=f23e75]: "404"
+    - generic [ref=f23e78]:
+      - generic [ref=f23e79]:
+        - heading "Page Not Found" [level=1] [ref=f23e82]
+        - generic [ref=f23e85]:
+          - paragraph [ref=f23e86]: The page you're looking for seems to have disappeared! Maybe you typed in the URL incorrectly; why don't you check the web address again? If you bookmarked the page, try our search to find what you're looking for.
+          - paragraph
+          - paragraph [ref=f23e87]:
+            - generic [ref=f23e88]:
+              - text: If you feel you've reached this page in error, please
+              - link "contact us" [ref=f23e89] [cursor=pointer]:
+                - /url: https://help.foodnetwork.com
+              - text: . You can also visit the
+              - link "FoodNetwork.com homepage" [ref=f23e90] [cursor=pointer]:
+                - /url: //www.foodnetwork.com
+              - text: to browse the site.
+      - generic [ref=f23e91]:
+        - generic [ref=f23e95]:
+          - generic [ref=f23e96]:
+            - link [ref=f23e98] [cursor=pointer]:
+              - /url: //www.foodnetwork.com/recipes/photos/food-network-kitchen-s-best-recipes
+              - img [ref=f23e100]
+            - heading "More Than 100 Tried + True Recipes from Our Test Kitchen" [level=3] [ref=f23e102]:
+              - link "More Than 100 Tried + True Recipes from Our Test Kitchen" [ref=f23e103] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/recipes/photos/food-network-kitchen-s-best-recipes
+                - generic [ref=f23e104]: More Than 100 Tried + True Recipes from Our Test Kitchen
+          - generic [ref=f23e105]:
+            - link [ref=f23e107] [cursor=pointer]:
+              - /url: //www.foodnetwork.com/recipes/photos/cookie-recipes
+              - img [ref=f23e109]
+            - heading "Classic Cookie Recipes Everyone Should Know" [level=3] [ref=f23e111]:
+              - link "Classic Cookie Recipes Everyone Should Know" [ref=f23e112] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/recipes/photos/cookie-recipes
+                - generic [ref=f23e113]: Classic Cookie Recipes Everyone Should Know
+          - generic [ref=f23e114]:
+            - link [ref=f23e116] [cursor=pointer]:
+              - /url: //www.foodnetwork.com/recipes/photos/30-minute-dinner-recipes
+              - img [ref=f23e118]
+            - heading "30-Minute Dinner Recipes That’ll Save Your Weeknights" [level=3] [ref=f23e120]:
+              - link "30-Minute Dinner Recipes That’ll Save Your Weeknights" [ref=f23e121] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/recipes/photos/30-minute-dinner-recipes
+                - generic [ref=f23e122]: 30-Minute Dinner Recipes That’ll Save Your Weeknights
+        - generic [ref=f23e126]:
+          - generic [ref=f23e127]:
+            - link [ref=f23e129] [cursor=pointer]:
+              - /url: //www.foodnetwork.com/recipes/photos/easy-dessert-recipes
+              - img [ref=f23e131]
+            - heading "Easy Desserts That Absolutely Anyone Can Make" [level=3] [ref=f23e133]:
+              - link "Easy Desserts That Absolutely Anyone Can Make" [ref=f23e134] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/recipes/photos/easy-dessert-recipes
+                - generic [ref=f23e135]: Easy Desserts That Absolutely Anyone Can Make
+          - generic [ref=f23e136]:
+            - link [ref=f23e138] [cursor=pointer]:
+              - /url: //www.foodnetwork.com/healthy/packages/healthy-every-week/quick-and-simple/healthy-dinners-in-40-minutes-or-less
+              - img [ref=f23e140]
+            - heading "Quick + Healthy Meals to Keep in Your Back Pocket" [level=3] [ref=f23e142]:
+              - link "Quick + Healthy Meals to Keep in Your Back Pocket" [ref=f23e143] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/healthy/packages/healthy-every-week/quick-and-simple/healthy-dinners-in-40-minutes-or-less
+                - generic [ref=f23e144]: Quick + Healthy Meals to Keep in Your Back Pocket
+          - generic [ref=f23e145]:
+            - link [ref=f23e147] [cursor=pointer]:
+              - /url: //www.foodnetwork.com/recipes/photos/our-best-chicken-thigh-recipes
+              - img [ref=f23e149]
+            - heading "Chicken Thigh Recipes You’ll Make All the Time" [level=3] [ref=f23e151]:
+              - link "Chicken Thigh Recipes You’ll Make All the Time" [ref=f23e152] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/recipes/photos/our-best-chicken-thigh-recipes
+                - generic [ref=f23e153]: Chicken Thigh Recipes You’ll Make All the Time
+        - generic [ref=f23e155]:
+          - heading "What's New on Food Network" [level=2] [ref=f23e158]
+          - generic [ref=f23e160]:
+            - generic [ref=f23e161]:
+              - link [ref=f23e163] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/how-to/packages/shopping/product-reviews/ninja-slushi-frozen-drink-maker-review
+                - img [ref=f23e164]
+              - generic [ref=f23e165]:
+                - generic [ref=f23e166]: Yesterday
+                - heading "This Frozen Drink Maker Is Just What You Need to Make Slushies at Home This Summer Jul 7, 2026" [level=3] [ref=f23e167]:
+                  - link "This Frozen Drink Maker Is Just What You Need to Make Slushies at Home This Summer Jul 7, 2026" [ref=f23e168] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/how-to/packages/shopping/product-reviews/ninja-slushi-frozen-drink-maker-review
+                    - generic [ref=f23e169]: This Frozen Drink Maker Is Just What You Need to Make Slushies at Home This Summer
+                    - generic [ref=f23e170]: Jul 7, 2026
+                - generic [ref=f23e172]:
+                  - text: "By:"
+                  - link "Taylor Murray" [ref=f23e173] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/profiles/editorial/taylor-murray
+                - paragraph [ref=f23e175]: We got our hands on the viral Ninja Slushi to see if it lives up to the hype.
+            - generic [ref=f23e176]:
+              - link [ref=f23e178] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/holidays-and-parties/articles/shark-products-for-your-shark-week-viewing-party
+                - img [ref=f23e179]
+              - generic [ref=f23e180]:
+                - generic [ref=f23e181]: Yesterday
+                - heading "23 Ocean-Themed Essentials to Throw a Shark Week Watch Party Jul 7, 2026" [level=3] [ref=f23e182]:
+                  - link "23 Ocean-Themed Essentials to Throw a Shark Week Watch Party Jul 7, 2026" [ref=f23e183] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/holidays-and-parties/articles/shark-products-for-your-shark-week-viewing-party
+                    - generic [ref=f23e184]: 23 Ocean-Themed Essentials to Throw a Shark Week Watch Party
+                    - generic [ref=f23e185]: Jul 7, 2026
+                - generic [ref=f23e186]:
+                  - generic [ref=f23e187]:
+                    - text: "By:"
+                    - link "Lauren Tom Cerone" [ref=f23e188] [cursor=pointer]:
+                      - /url: //www.foodnetwork.com/profiles/editorial/lauren-tom
+                  - generic [ref=f23e189]:
+                    - text: and
+                    - link "Julia Morlino" [ref=f23e190] [cursor=pointer]:
+                      - /url: //www.foodnetwork.com/profiles/editorial/julia-morlino
+                - paragraph [ref=f23e192]: Sink your teeth into these fin-tastic party supplies for your Shark Week marathon.
+            - generic [ref=f23e193]:
+              - link [ref=f23e195] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/how-to/packages/shopping/the-zero-proof
+                - img [ref=f23e196]
+              - generic [ref=f23e197]:
+                - generic [ref=f23e198]: Yesterday
+                - heading "Skip the Hangover With Nonalcoholic Picks From The Zero Proof Jul 7, 2026" [level=3] [ref=f23e199]:
+                  - link "Skip the Hangover With Nonalcoholic Picks From The Zero Proof Jul 7, 2026" [ref=f23e200] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/how-to/packages/shopping/the-zero-proof
+                    - generic [ref=f23e201]: Skip the Hangover With Nonalcoholic Picks From The Zero Proof
+                    - generic [ref=f23e202]: Jul 7, 2026
+                - generic [ref=f23e204]:
+                  - text: "By:"
+                  - link "Allison Russo-Tashjian" [ref=f23e205] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/profiles/editorial/allison-russo
+                - paragraph [ref=f23e207]: Plus, save 15% on nonalcoholic beer, wine and more when you become a member!
+            - generic [ref=f23e208]:
+              - link [ref=f23e210] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-honey
+                - img [ref=f23e211]
+              - generic [ref=f23e212]:
+                - generic [ref=f23e213]: Yesterday
+                - heading "The 7 Best Honeys of 2026, Reviewed by Food Network Staffers Jul 7, 2026" [level=3] [ref=f23e214]:
+                  - link "The 7 Best Honeys of 2026, Reviewed by Food Network Staffers Jul 7, 2026" [ref=f23e215] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-honey
+                    - generic [ref=f23e216]: The 7 Best Honeys of 2026, Reviewed by Food Network Staffers
+                    - generic [ref=f23e217]: Jul 7, 2026
+                - generic [ref=f23e219]:
+                  - text: "By:"
+                  - link "Julia Morlino" [ref=f23e220] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/profiles/editorial/julia-morlino
+                - paragraph [ref=f23e222]: Shop the best kinds of honey for drizzling, cooking, gifting and more, and learn from experts which types of honey are worth all t …
+            - generic [ref=f23e223]:
+              - link [ref=f23e225] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/shows/bbq-brawl-flay-v-symon/articles/season-7-winner
+                - img [ref=f23e226]
+              - generic [ref=f23e227]:
+                - generic [ref=f23e228]: Yesterday
+                - heading "Bob Trudnak Becomes the First Competition Pitmaster to Win ‘BBQ Brawl’ Jul 7, 2026" [level=3] [ref=f23e229]:
+                  - link "Bob Trudnak Becomes the First Competition Pitmaster to Win ‘BBQ Brawl’ Jul 7, 2026" [ref=f23e230] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/shows/bbq-brawl-flay-v-symon/articles/season-7-winner
+                    - generic [ref=f23e231]: Bob Trudnak Becomes the First Competition Pitmaster to Win ‘BBQ Brawl’
+                    - generic [ref=f23e232]: Jul 7, 2026
+                - generic [ref=f23e234]:
+                  - text: "By:"
+                  - link "Karla Walsh" [ref=f23e235] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/profiles/editorial/karla-walsh
+                - paragraph [ref=f23e237]: Discover what circuit secrets and recipes helped earn this Pennsylvania pitmaster the title of “Master of ‘Cue.”
+            - generic [ref=f23e238]:
+              - link [ref=f23e240] [cursor=pointer]:
+                - /url: //www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-mini-fridge
+                - img [ref=f23e241]
+              - generic [ref=f23e242]:
+                - heading "5 Best Mini Fridges of 2026, According to an Expert Jul 6, 2026" [level=3] [ref=f23e243]:
+                  - link "5 Best Mini Fridges of 2026, According to an Expert Jul 6, 2026" [ref=f23e244] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-mini-fridge
+                    - generic [ref=f23e245]: 5 Best Mini Fridges of 2026, According to an Expert
+                    - generic [ref=f23e246]: Jul 6, 2026
+                - generic [ref=f23e248]:
+                  - text: "By:"
+                  - link "Sharon Franke" [ref=f23e249] [cursor=pointer]:
+                    - /url: //www.foodnetwork.com/profiles/editorial/sharon-franke
+                - paragraph [ref=f23e251]: Whether it's in a pantry, den or dorm room, a small fridge can come in handy!
+          - button "Load More" [ref=f23e254] [cursor=pointer]
+  - generic [ref=f23e262]:
+    - list [ref=f23e264]:
+      - listitem [ref=f23e265]:
+        - link "Site Map" [ref=f23e266] [cursor=pointer]:
+          - /url: //www.foodnetwork.com/site/site-map
+      - listitem [ref=f23e267]:
+        - link "Visitor Agreement" [ref=f23e268] [cursor=pointer]:
+          - /url: https://corporate.discovery.com/visitor-agreement/
+      - listitem [ref=f23e269]:
+        - link "AdChoices" [ref=f23e270] [cursor=pointer]:
+          - /url: https://www.wbdprivacy.com/policycenter/b2c/
+      - listitem [ref=f23e271]:
+        - link "Privacy Policy" [ref=f23e272] [cursor=pointer]:
+          - /url: https://www.wbdprivacy.com/policycenter/b2c/
+      - listitem [ref=f23e273]:
+        - link "About" [ref=f23e274] [cursor=pointer]:
+          - /url: //www.foodnetwork.com/site/about-foodnetwork-com
+      - listitem [ref=f23e275]:
+        - link "Newsroom" [ref=f23e276] [cursor=pointer]:
+          - /url: https://corporate.discovery.com/discovery-newsroom/
+      - listitem [ref=f23e277]:
+        - link "Advertise" [ref=f23e278] [cursor=pointer]:
+          - /url: https://corporate.discovery.com/contact/advertising/
+      - listitem [ref=f23e279]:
+        - link "Help" [ref=f23e280] [cursor=pointer]:
+          - /url: https://help.foodnetwork.com/
+      - listitem [ref=f23e281]:
+        - link "TV Ratings" [ref=f23e282] [cursor=pointer]:
+          - /url: http://www.tvguidelines.org/ratings.html
+      - listitem [ref=f23e283]:
+        - link "Online Closed Captioning" [ref=f23e284] [cursor=pointer]:
+          - /url: https://corporate.discovery.com/online-closed-captioning/
+      - listitem [ref=f23e285]:
+        - link "Accessibility" [ref=f23e286] [cursor=pointer]:
+          - /url: https://corporate.discovery.com/website-accessibility-statement/
+      - listitem [ref=f23e287]:
+        - link "Newsletters" [ref=f23e288] [cursor=pointer]:
+          - /url: //www.foodnetwork.com/site/newsletter-sign-up
+      - listitem [ref=f23e289]:
+        - link "Discovery, Inc." [ref=f23e290] [cursor=pointer]:
+          - /url: https://corporate.discovery.com/
+      - listitem [ref=f23e291]:
+        - button "Do Not Sell or Share My Personal Information" [ref=f23e292]
+    - list [ref=f23e293]:
+      - listitem [ref=f23e294]:
+        - link "International Editions" [ref=f23e295] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - text: 
+      - listitem [ref=f23e296]:
+        - link "The Discovery Family of Networks" [ref=f23e297]:
+          - /url: javascript:void(0);
+        - text: 
+      - listitem [ref=f23e298]: © 2026 Warner Bros. Discovery, Inc. or its subsidiaries and affiliates. All rights reserved.
